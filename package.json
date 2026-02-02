@@ -5,6 +5,7 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://basekit-core-docs.vercel.app/",
   "files": [
     "dist"
   ],

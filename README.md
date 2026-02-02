@@ -5,6 +5,12 @@
   Core utility helpers for modern JavaScript & TypeScript
 </p>
 
+<p align="center">
+  <a href="https://basekit-core-docs.vercel.app/">
+    <img src="https://img.shields.io/badge/docs-online-blue" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 What is this?
