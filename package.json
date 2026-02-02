@@ -1,0 +1,25 @@
+{
+  "name": "basekit-core",
+  "version": "0.1.4",
+  "description": "Core utility functions – zero dependency",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "utils",
+    "core",
+    "vanilla-js"
+  ],
+  "author": "Zakir Aliyev",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
